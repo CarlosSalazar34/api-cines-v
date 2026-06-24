@@ -1,6 +1,6 @@
 # API para reservas de entradas de cine 🎥🍿
 
-hola! desarrolle esta api para dar un ejemplo de como se desarrolla una api en el campo laboral (o al menos como lo hago yo XD) y adelantarme la materia de bases de datos en la universidad (los de 4to semestre ch*p3nl0 ;v), mas que todo para los mas iniciados, para que vean como se ve un codigo backend real.
+hola! desarrolle este backend para dar un ejemplo de como se desarrolla una api en el campo laboral (o al menos como lo hago yo XD) y adelantarme la materia de bases de datos en la universidad (los de 4to semestre ch*p3nl0 ;v), mas que todo para los mas iniciados, para que vean como se ve un codigo backend real.
 
 si vienes de hacer puros `print("hola mundo")` y querías saber cómo se ve algo más serio... bienvenido, aquí vas a sufrir un poquito ;v pero vas a aprender un montón
 
