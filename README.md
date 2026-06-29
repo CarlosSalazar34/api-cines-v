@@ -164,6 +164,12 @@ python create_fake_data.py
 
 > es como la pulsera de un festival: sin pulsera no entras a VIP 🎶
 
+## 🚀 Por qué SQLModel?
+
+Si te preguntas por qué no usamos SQLAlchemy puro o Tortoise ORM, la respuesta es simple: **SQLModel** fue creado por tiangolo (el mismo crack que hizo FastAPI) y combina lo mejor de SQLAlchemy con Pydantic.
+
+Esto significa que usamos **la misma clase** tanto para validar los datos que entran por la API (como un schema) como para mapear las tablas en la base de datos. Menos código duplicado = menos dolores de cabeza 🧠✨.
+
 ## Flujo de una reserva
 
 ```
